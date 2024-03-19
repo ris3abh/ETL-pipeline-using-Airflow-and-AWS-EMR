@@ -13,10 +13,8 @@ local_data_3 = "/home/xxxxxxxxxxxxx/airflow-local/dags/Olist_Data/olist_order_it
 s3_data_1 = "data/olist_order_items_dataset.csv"
 s3_data_2 = "data/olist_orders_dataset.csv"
 s3_data_3 = "data/olist_products_dataset.csv"
-local_script = "/home/rishabhsharma/airflow-local/dags/Olist_scripts/spark_missed_deadline_job.py"
+local_script = "/home/xxxxxxxxxxxxx/airflow-local/dags/Olist_scripts/spark_missed_deadline_job.py"
 s3_script = "script/Olist_script.py"
-
-
 
 
 
